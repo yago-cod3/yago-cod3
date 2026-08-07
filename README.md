@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Yago! | Hi, I'm Yago! 👋
+### Desenvolvedor Full Stack & Pós-graduando em Engenharia de Software
+### Full Stack Developer & Software Engineering Graduate Student
+---
 
-<!--
-**yago-cod3/yago-cod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim | About Me
 
-Here are some ideas to get you started:
+**PT-BR:** Sou um desenvolvedor apaixonado por resolver problemas através do código. Atualmente, foco em aprimorar meus conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento na minha pós-graduação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**EN-US:** *I am a developer passionate about solving problems through code. Currently, I am focused on improving my knowledge in system architecture and development best practices through my postgraduate studies.*
+
+---
+
+## Tecnologias | Tech Stack
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,vscode,vscodium,html,css,js,git,github,figma,ts,react,react,nodejs,nextjs,nestjs,npm,java,docker,rust,go,electron,mysql" />
+  </a>
+</div>
+
+---
+
+## Formação Acadêmica | Education
+*  **Pós-graduação em Engenharia de Software** – Uninassau (Em andamento)
+*  *Postgraduate in Software Engineering – Uninassau (In progress)*
+*  **Graduação em Análise e Desenvolvimento de Sistemas** – Wyden Unifanor/Unifavip
+*  *B.S. in Analysis and Systems Development – Wyden Unifanor/Unifavip*
