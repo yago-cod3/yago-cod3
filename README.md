@@ -14,7 +14,7 @@
 ## Tecnologias | Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,vscode,vscodium,html,css,js,git,github,figma,ts,react,react,nodejs,nextjs,nestjs,npm,java,docker,rust,go,electron,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,vscode,vscodium,html,css,js,git,github,figma,ts,react,react,nodejs,nextjs,nestjs,npm,java,docker,rust,go,python,electron,mysql" />
   </a>
 </div>
 
