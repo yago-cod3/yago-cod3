@@ -5,9 +5,9 @@
 
 ## Sobre mim | About Me
 
-**PT-BR:** Sou um desenvolvedor apaixonado por resolver problemas através do código. Atualmente, foco em aprimorar meus conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento na minha pós-graduação.
+**PT-BR:** Sou um desenvolvedor empenhado a resolver problemas através do código. Atualmente, foco em aprimorar meus conhecimentos em arquitetura de sistemas e boas práticas de desenvolvimento.
 
-**EN-US:** *I am a developer passionate about solving problems through code. Currently, I am focused on improving my knowledge in system architecture and development best practices through my postgraduate studies.*
+**EN-US:** *I am a developer committed to solving problems through code. Currently, I am focused on improving my knowledge of systems architecture and best development practices.*
 
 ---
 
