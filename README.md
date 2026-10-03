@@ -28,14 +28,6 @@
 
 ---
 
-## Linguagens mais usadas | Most Used Languages
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-cod3&layout=compact&hide_border=true&theme=github_dark&hide=makefile" alt="Top linguagens | Top languages" />
-</div>
-
----
-
 ## Formação Acadêmica | Education
 
 | | PT-BR | EN-US |
